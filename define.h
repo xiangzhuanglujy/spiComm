@@ -1,0 +1,11 @@
+#ifndef _DEFINE_H
+#define _DEFINE_H
+
+typedef struct _Msg
+{
+	char *pData1;
+	char *pData2;
+	char *pData3;	
+}Msg;
+
+#endif
